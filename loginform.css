@@ -1,0 +1,14 @@
+body{
+    background-color: #16202b;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.login-form{
+    width: 500px;
+    margin: auto;
+}
+.btn-login{
+    border-radius: 15px;
+}
